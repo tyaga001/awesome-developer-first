@@ -98,7 +98,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
 * [Lil'bots](https://www.lilbots.io/) - Create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic, and more.
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/n8n-io/n8n)
+* [Potpie](https://potpie.ai) - Open source AI agents for your codebase in minutes. Use pre-built agents for Q&A, testing, debugging and system design or create your own purpose-built agents. [![potpie](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/potpie-ai/potpie)
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
+
 
 ## Backend-as-a-Service
 *Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
@@ -192,7 +194,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 * [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 * [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ## Feature Flags
@@ -228,6 +230,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/NangoHQ/nango)
 * [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/panoratech/panora)
 * [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/revertinc/revert)
 * [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
